@@ -1,0 +1,220 @@
+#big{
+background-image: linear-gradient( to bottom,rgb(174, 189, 255),rgb(245, 142, 222),rgb(255, 170, 184));
+height: 130px;
+}
+#background{
+background-color: rgba(226, 221, 213, 0.425);
+height: 90px;
+width: 60px;
+position: relative;
+left: 95px;
+top: 20px;
+border-radius: 2px;
+box-shadow: 1px 1px   20px bisque;
+}
+#display{
+    height: 20px;
+    width: 60px;
+
+ border-radius: 2px;
+ background-color: rgba(226, 221, 213, 0.425);
+font-size: 5px;
+border-width: 0px;
+
+padding-left: 3px;
+padding-top: 6px;
+box-sizing: border-box;
+box-shadow: 1px 1px 7px bisque;
+user-select: none;
+
+}  
+
+
+
+#del{
+
+}
+
+
+#btn2{
+     display: flex;
+  
+
+    
+}
+#btn2 > button{
+    border: 0px solid;
+    width: 10px;
+    height: 10px;
+    margin: 2px;
+    padding: 3px;
+    background-color: rgb(235, 225, 209);
+    font-size: 4px;
+    cursor: pointer;
+     box-shadow: 1px 1px 5px bisque;
+    border-radius: 5px;
+    text-align: center;
+    box-sizing: border-box;
+    position: relative;
+top: 4px;
+left: 2px;
+user-select: none;
+}
+#btn{
+    display: flex;
+}
+#btn >button{
+    border: 0px solid;
+    width: 10px;
+    height: 10px;
+    margin: 2px;
+    padding: 3px;
+    background-color: rgb(235, 225, 209);
+    font-size: 4px;
+    box-shadow: 1px 1px 5px bisque;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    box-sizing: border-box;
+    position: relative;
+    top: 5px;
+    left: 2px;
+    user-select: none;
+}
+#btn3{
+    display: flex;
+}
+#btn3 >button{
+   
+    width: 10px;
+    height: 10px;
+    margin: 2px;
+    padding: 3px;
+    background-color: rgb(235, 225, 209);
+    font-size: 4px;
+    border: 0px solid;
+    box-shadow: 1px 1px 5px bisque;
+    border-radius: 5px;
+    text-align: center;
+    box-sizing: border-box;
+    position: relative;
+    top: 2px;
+    left: 2px;
+    cursor: pointer;
+    user-select: none;
+}
+
+#btn4{
+    display: flex;
+}
+#btn4 >button{
+    border: 0px solid;
+    width: 10px;
+    height: 10px;
+    margin: 2px;
+    padding: 3px;
+    background-color: rgb(235, 225, 209);
+    font-size: 4px;
+    box-shadow: 1px 1px 5px bisque;
+    
+    border-radius: 5px;
+    text-align: center;
+    box-sizing: border-box;
+    position: relative;
+    bottom: -1px;
+    left: 2px;
+    cursor: pointer;
+    user-select: none;
+
+}
+#one:active{
+    box-shadow: 1px 1px  5px  palevioletred;
+}
+#del:active{
+    box-shadow: 1px 1px  5px  palevioletred;
+}
+#two:active{
+    box-shadow: 1px 1px  5px  palevioletred;
+}
+#eight:active{
+    box-shadow: 1px 1px  5px  palevioletred;
+}
+#seven:active{
+    box-shadow: 1px 1px  5px  palevioletred;
+}
+#four:active{
+    box-shadow: 1px 1px  5px  palevioletred;
+}
+#six:active{
+    box-shadow: 1px 1px  5px  palevioletred;
+}
+#zarb:active{
+    box-shadow: 1px 1px  5px  palevioletred;
+}
+#nine:active{
+    box-shadow: 1px 1px  5px  palevioletred;
+}
+#minus:active{
+    box-shadow: 1px 1px  5px  palevioletred;
+}
+#five:active{
+    box-shadow: 1px 1px  5px  palevioletred;
+}
+#plus:active{
+    box-shadow: 1px 1px  5px  palevioletred;
+}
+#three:active{
+    box-shadow: 1px 1px  5px  palevioletred;
+}
+#zero:active{
+    box-shadow: 1px 1px  5px  palevioletred;
+}
+#ashar:active{
+    box-shadow: 1px 1px  5px  palevioletred;
+}
+#taghsim:active{
+    box-shadow: 1px 1px  5px  palevioletred;
+}
+#mosavi:active{
+    
+    box-shadow: 1px 1px  5px  palevioletred;
+}
+#back:active{
+    
+    box-shadow: 1px 1px  5px  palevioletred;
+}
+#pn:active{
+    
+    box-shadow: 1px 1px  5px  palevioletred;
+}
+#not:active{
+    
+    box-shadow: 1px 1px  5px  palevioletred;
+}
+
+
+#btn5{
+    display: flex;
+}
+#btn5 >button{
+    border: 0px solid;
+    width: 10px;
+    height: 10px;
+    margin: 2px;
+    padding: 3px;
+    background-color: rgb(235, 225, 209);
+    font-size: 4px;
+    box-shadow: 1px 1px 5px bisque;
+    
+    border-radius: 5px;
+    text-align: center;
+    box-sizing: border-box;
+    position: relative;
+    
+    left: 2px;
+    cursor: pointer;
+    user-select: none;
+
+}
+
+
